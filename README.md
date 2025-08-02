@@ -1,3 +1,4 @@
+**原版模型对脚底识别率过低，尝试自己炼丹**: 
 **Looking for contributors/ maintainers for this repo**: 
 I have become busy with other stuff in the last years, still trying to maintain this repo as it is the current best OSS option for nudity detection,
 Looking for interested mainttainer, who can add/ work on more features for this repo (with my help of course)
